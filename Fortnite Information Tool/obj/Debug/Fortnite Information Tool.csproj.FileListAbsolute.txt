@@ -1,0 +1,21 @@
+C:\Users\Calvin\source\repos\Fortnite Information Tool\Fortnite Information Tool\bin\Debug\Fortnite Information Tool.exe.config
+C:\Users\Calvin\source\repos\Fortnite Information Tool\Fortnite Information Tool\bin\Debug\Fortnite Information Tool.exe
+C:\Users\Calvin\source\repos\Fortnite Information Tool\Fortnite Information Tool\bin\Debug\Fortnite Information Tool.pdb
+C:\Users\Calvin\source\repos\Fortnite Information Tool\Fortnite Information Tool\bin\Debug\DiscordRPC.xml
+C:\Users\Calvin\source\repos\Fortnite Information Tool\Fortnite Information Tool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Calvin\source\repos\Fortnite Information Tool\Fortnite Information Tool\bin\Debug\System.Buffers.xml
+C:\Users\Calvin\source\repos\Fortnite Information Tool\Fortnite Information Tool\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Calvin\source\repos\Fortnite Information Tool\Fortnite Information Tool\bin\Debug\System.Memory.xml
+C:\Users\Calvin\source\repos\Fortnite Information Tool\Fortnite Information Tool\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Calvin\source\repos\Fortnite Information Tool\Fortnite Information Tool\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Calvin\source\repos\Fortnite Information Tool\Fortnite Information Tool\obj\Debug\Fortnite Information Tool.csproj.AssemblyReference.cache
+C:\Users\Calvin\source\repos\Fortnite Information Tool\Fortnite Information Tool\obj\Debug\Fortnite Information Tool.csproj.SuggestedBindingRedirects.cache
+C:\Users\Calvin\source\repos\Fortnite Information Tool\Fortnite Information Tool\obj\Debug\Fortnite_Information_Tool.Form1.resources
+C:\Users\Calvin\source\repos\Fortnite Information Tool\Fortnite Information Tool\obj\Debug\Fortnite_Information_Tool.Properties.Resources.resources
+C:\Users\Calvin\source\repos\Fortnite Information Tool\Fortnite Information Tool\obj\Debug\Fortnite Information Tool.csproj.GenerateResource.cache
+C:\Users\Calvin\source\repos\Fortnite Information Tool\Fortnite Information Tool\obj\Debug\Fortnite Information Tool.csproj.CoreCompileInputs.cache
+C:\Users\Calvin\source\repos\Fortnite Information Tool\Fortnite Information Tool\obj\Debug\Fortnite Information Tool.csproj.Fody.CopyLocal.cache
+C:\Users\Calvin\source\repos\Fortnite Information Tool\Fortnite Information Tool\obj\Debug\Fortnite Information Tool.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Calvin\source\repos\Fortnite Information Tool\Fortnite Information Tool\obj\Debug\Fortnite Information Tool.csproj.CopyComplete
+C:\Users\Calvin\source\repos\Fortnite Information Tool\Fortnite Information Tool\obj\Debug\Fortnite Information Tool.exe
+C:\Users\Calvin\source\repos\Fortnite Information Tool\Fortnite Information Tool\obj\Debug\Fortnite Information Tool.pdb
